@@ -4,7 +4,7 @@ This is a regression model that combines predictions from a linear regression mo
 to predict the temperature as well as a 95% prediction interval n days into the future.
 
 # Prerequisites
-python 3. 
+python 3\\
 numpy. 
 pandas. 
 matplotlib. 
