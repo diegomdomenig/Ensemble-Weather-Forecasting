@@ -1,6 +1,6 @@
 # Ensemble-Weather-Forecasting
 
-This is a regression model that combines predictions from a linear regression model, ARIMA regression mode, and LSTM recurrent neural network 
+This is a regression model that combines predictions from a linear regression model, ARIMA regression model, and LSTM recurrent neural network 
 to predict the temperature as well as a 95% prediction interval n days into the future.
 
 # Prerequisites
